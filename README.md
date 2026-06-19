@@ -13,20 +13,18 @@ Two examples are available:
 
 
  <figure align="center">
-  <img src="https://github.com/user-attachments/files/29142373/MOAS_setS_dyn2_1.pdf" width="75%">
+  <img src="https://github.com/user-attachments/files/29142780/MOAS_setS_dyn2_1.pdf" width="75%">
   <figcaption><b>Figure 1:</b> MOAS obtained when considering a switching signal that has no changes (either only mode 1 or only mode 2) .</figcaption>
 </figure>
 
-
-
  <figure align="center">
-  <img src="https://github.com/user-attachments/files/29142373/MOAS_setS_dyn2_2.pdf" width="75%">
+  <img src="https://github.com/user-attachments/files/29142781/MOAS_setS_dyn2_2.pdf" width="75%">
   <figcaption><b>Figure 2:</b> MOAS obtained  when considering a switching signal that has two changes before becoming constant (1,2,1,1,1... or 2,1,2,2,2...).</figcaption>
 </figure>
 
   
  <figure align="center">
-  <img src="https://github.com/user-attachments/files/29142373/MOAS_setS_dyn2_3.pdf" width="75%">
+  <img src="https://github.com/user-attachments/files/29142782/MOAS_setS_dyn2_3.pdf" width="75%">
   <figcaption><b>Figure 3:</b> MOAS obtained  when considering a switching signal that has four changes before becoming constant (similar to previous case).</figcaption>
 </figure>
 
@@ -45,6 +43,6 @@ Two examples are available:
 
 **uses the following toolboxes**
 
-%Optimization problem are solved with quadprog using Yalmip %[https://yalmip.github.io/download/]
-% uses MPT3 for polytope ploting: https://www.mpt3.org/pmwiki.php/Main/Installation
-% Cora toolbox for some light operations on polytopes: https://tumcps.github.io/CORA/
+Optimization problem are solved with quadprog using Yalmip [https://yalmip.github.io/download/]
+uses MPT3 for polytope ploting: https://www.mpt3.org/pmwiki.php/Main/Installation
+Cora toolbox for some light operations on polytopes: https://tumcps.github.io/CORA/
